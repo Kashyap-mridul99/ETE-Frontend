@@ -1,0 +1,34 @@
+body {
+  background-image: url("corona.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#inputs_navs {
+  align-items: center;
+}
+#country {
+  margin-left: 375px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#start {
+  margin-left: 75px;
+}
+#end {
+  margin-left: 75px;
+}
+#submit {
+  margin-left: 75px;
+  background-color: blue;
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.div_blue {
+  background-color: blue;
+  margin-left: 600px;
+  margin-right: 600px;
+  text-align: center;
+  color: white;
+  padding-bottom: 2px;
+}
